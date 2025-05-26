@@ -21,7 +21,7 @@ This repository contains a collection of small-scale AI projects built during **
   An AI model that classifies bananas as ripe or unripe based on images.  
 
 ## Misc Projects
-- **E-Jokebook**
+- **E-Jokebook**  
   A program to display jokes using web requests.
   
 ⚠️ *Image datasets for some projects are not included due to size constraints.*
